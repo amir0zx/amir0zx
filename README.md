@@ -23,7 +23,7 @@
 ## **Identity**
 - **Name**: Amir Talebi
 - **Alias**: amirzx / cyberslayer
-- **Focus**: Linux, networking, coding, DevOps
+- **Focus**: Linux, networking, coding, Bug bounty, DevOps
 - **Vibe**: red/black, minimal, sharp, tuned
 
 ## **System Core**
