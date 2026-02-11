@@ -1,7 +1,7 @@
 <div align="center">
 
 # CyberSlayer
-### aka ** AMIRZX / AMIR TALEBI **
+### ** AMIRZX / AMIR TALEBI **
 
 ```
      ██████╗ ███████╗██████╗ ██╗   ██╗ ██████╗ ███╗   ██╗
